@@ -14,7 +14,7 @@ app.get('/', (req, res) => {
 app.post('/webhook', (req, res) => {
 	request({
 		method: 'POST',
-		url: webhook + "/slack" ,
+		url: webhook + '/slack' ,
 		json:
 		{
 			"username": "Hazama",

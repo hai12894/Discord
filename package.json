@@ -1,10 +1,10 @@
 {
   "name": "(discord)",
   "version": "1.0.0",
-  "description": "",
+  "description": "GG Discord bot project",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "nodemon index.js"
   },
   "repository": {
     "type": "git",
