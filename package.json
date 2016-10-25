@@ -1,0 +1,19 @@
+{
+  "name": "(discord-webhooks)",
+  "version": "1.0.0",
+  "description": "discord basic webhooks using slacks api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://hai12894@github.com/hai12894/Discord.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hai12894/Discord/issues"
+  },
+  "homepage": "https://github.com/hai12894/Discord#readme"
+}
