@@ -3,8 +3,12 @@
   "version": "1.0.0",
   "description": "GG Discord bot project",
   "main": "index.js",
+
   "scripts": {
-    "test": "nodemon index.js"
+    "test": "nodemon index.js",
+    "test1": "nodemon bin/index1.js",
+    "msg": "nodemon bin/msg.js",
+    "msglink": "nodemon bin/msglink"
   },
   "repository": {
     "type": "git",
@@ -16,4 +20,6 @@
     "url": "https://github.com/hai12894/Discord/issues"
   },
   "homepage": "https://github.com/hai12894/Discord#readme"
+
+
 }
